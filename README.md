@@ -20,8 +20,6 @@
 <br />
 <br />
 
----
-
 ### Connect with me:
 
 [<img align="left" alt="Mirza Adnan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/mizzadnan/)
