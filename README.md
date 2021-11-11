@@ -1,6 +1,6 @@
 ### Hi, this is Mirza Adnan
 
-### mirza.adnan2205@gmail.com
+## mirza.adnan2205@gmail.com
 - 🔭 I’m currently working on frontend web projects
 - 🌱 I’m currently learning React.js  
 
