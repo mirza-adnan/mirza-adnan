@@ -22,6 +22,14 @@
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
      width="60px"
    />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
+     width="60px"
+   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
+     width="60px"
+   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <br />
   <br />
   <img
