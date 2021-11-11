@@ -1,7 +1,6 @@
 <br/>
 <div align="center">
   <h1>Hi, this is Mirza Adnan</h1>
-  <h3>mirza.adnan2205@gmail.com</h3>
   <br/>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"
@@ -17,6 +16,10 @@
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+    width="60px"
+  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/git-original.svg"
     width="60px"
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <br />
