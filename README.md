@@ -1,7 +1,7 @@
 <br/>
 <div align="center">
-  #Hi, this is Mirza Adnan
-  ### mirza.adnan2205@gmail.com
+  <h1>Hi, this is Mirza Adnan</h1>
+  <h3>mirza.adnan2205@gmail.com</h3>
   <br/>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"
