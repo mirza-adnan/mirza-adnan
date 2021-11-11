@@ -1,7 +1,8 @@
-# Hi, this is Mirza Adnan
-
-### mirza.adnan2205@gmail.com
+<br/>
 <div align="center">
+  # Hi, this is Mirza Adnan
+  ### mirza.adnan2205@gmail.com
+  <br/>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"
     width="60px"
