@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-  <h1>Hi, this is Mirza Adnan</h1>
+  <h1>Hey, this is Mirza Adnan</h1>
   <br/>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"
