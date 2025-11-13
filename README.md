@@ -1,51 +1,15 @@
-<br/>
-<div align="center">
-  <h1>Hey, this is Mirza Adnan</h1>
-  <br/>
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"
-    width="60px"
-  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"
-    width="60px"
-    />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
-    width="60px"
-  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"
-    width="60px"
-  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-    width="60px"
-  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-    width="60px"
-  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-     width="60px"
-   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
-     width="60px"
-   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
-     width="60px"
-   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <br />
-  <br />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mirza-adnan&show_icons=true&theme=synthwave&&hide_border=true"
-  />
-  <br />
-  <br />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mirza-adnan&&theme=synthwave&&hide_border=true"
-  />
-</div>
+### Hi
+
+I'm **Mirza Adnan**, a software engineer.
+
+I design and build whatever I think is cool, original or not.
+
+Most of my expertise is in web development but is not limited to it.
+
+The tech stack I am most familiar with is React, Typescript, Express.js/Spring Boot, Postgres, Tailwind (vanilla CSS is fine too) and framer motion.
+
+Other than that, I am also quite comfortable with C/C++(had to learn because of uni) and even made a 2D game in C with SDL2.
+
+#### Fun Facts:
+* I don't like coffee
+* I love the Cars movie
