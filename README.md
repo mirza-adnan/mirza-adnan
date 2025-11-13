@@ -8,7 +8,7 @@ Most of my expertise is in web development but is not limited to it.
 
 The tech stack I am most familiar with is React, Typescript, Express.js/Spring Boot, Postgres, Tailwind (vanilla CSS is fine too) and framer motion.
 
-Other than that, I am also quite comfortable with C/C++(had to learn because of uni) and even made a 2D game in C with SDL2.
+Other than that, I am also quite comfortable with C/C++(had to learn because of uni) and even made a fun 2D game in C with SDL2 called Spurrint.
 
 #### Fun Facts:
 * I don't like coffee
